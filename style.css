@@ -81,7 +81,7 @@ body{
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
     animation: animate 25s linear infinite;
-    bottom: -1650px;
+    bottom: -2650px;
     
 }
 
@@ -222,7 +222,7 @@ img:hover {
     }
 
     100%{
-        transform: translateY(-3000px) rotate(720deg);
+        transform: translateY(-3500px) rotate(720deg);
         opacity: 0;
         border-radius: 30%;
     }
